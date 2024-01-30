@@ -1,7 +1,7 @@
 # Custom Authentication || A Complete Laravel Custom Authentication Solution 
 Laravel custom authentication with google 2fa. A complete auth system like register, login, verify email, forgot password etc.
 
-# Technologies Behind
+## Technologies Behind
 -> Laravel-10 , A PHP Framework
 -> Mysql Database
 -> Eloquent ORM
@@ -9,7 +9,7 @@ Laravel custom authentication with google 2fa. A complete auth system like regis
 -> Tailwind Css
 -> Rest Api
 
-# Requirements
+## Requirements
 -> node js
 -> Composer
 -> PHP 8.1^
@@ -17,7 +17,7 @@ Laravel custom authentication with google 2fa. A complete auth system like regis
 
 
 
-# Installation Command
+## Installation Command
 ```bash
     composer install
 ```
@@ -46,7 +46,7 @@ Then project run command is
     php artisan serve
 ```
 
-# General Features (api list)
+## General Features (api list)
 ```bash
     /auth/common-setting
 ```
